@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1>Hey, I'm Jacopo</h1>
+"So di non sapere" - Socrate
+
+<h3>These are my current projects: </h3>
+<ul>
+  <li>First project</li>
+  <li>Second project</li>
+  <li>Third project</li>
+</ul>
+
+
 
 <!--
 **JacopoCongia/JacopoCongia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
