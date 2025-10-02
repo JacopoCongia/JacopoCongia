@@ -1,5 +1,6 @@
 <h1>Hey, I'm Jacopo</h1>
-<p>"So di non sapere" - Socrate</p>
+
+_"So di non sapere" &ndash; Socrate_
 
 <h3>These are my current projects: </h3>
 <ul>
