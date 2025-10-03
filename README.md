@@ -2,12 +2,16 @@
 
 _"So di non sapere" &ndash; Socrate_
 
-<h3>These are my current projects: </h3>
+<h3>These are my current projects</h3>
 <ul>
   <li>First project</li>
   <li>Second project</li>
   <li>Third project</li>
 </ul>
+
+<br/><br/><br/><br/><br/><br/><br/>
+<h3>Volunteer work</h3>
+<a href="https://www.icymare.com/"><img width="500" alt="image" src="https://github.com/user-attachments/assets/ec0366ad-d186-4a56-9914-7377affec69e" /></a>
 
 
 
