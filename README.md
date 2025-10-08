@@ -2,11 +2,9 @@
 
 _"So di non sapere" &ndash; Socrate_
 
-<h3>These are my current projects</h3>
+<h3>Current projects:</h3>
 <ul>
-  <li>First project</li>
-  <li>Second project</li>
-  <li>Third project</li>
+  <li><strong>Wedding Invitation:</strong> <a href="https://github.com/JacopoCongia/wedding-invitation-public">Repository</a> | <a href="https://rsvp-wedding-invitation.netlify.app/">Demo</a></li>
 </ul>
 
 <br/><br/><br/><br/><br/><br/><br/>
